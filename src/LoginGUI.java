@@ -109,7 +109,7 @@ public class LoginGUI extends  JFrame{
         TableGUI tableGUI = new TableGUI(shoppingManager, availableItemsMap, shoppingCart, shoppingCartGUI, currentUser, purchaseManager);
 
         // Set JFrame properties
-        tableGUI.setTitle("Westminster Shopping center ");
+        tableGUI.setTitle("Shopping center ");
         tableGUI.setSize(1200, 800);
         tableGUI.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
         tableGUI.setLocationRelativeTo(null);

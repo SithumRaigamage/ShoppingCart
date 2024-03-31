@@ -14,6 +14,7 @@ public class Main {
     // Main method, the entry point of the program
     public static void main(String[] args) {
 
+
         // Creating an instance of WestminsterShoppingManager
         Shopping shoppingManager = new ShoppingManager();
 

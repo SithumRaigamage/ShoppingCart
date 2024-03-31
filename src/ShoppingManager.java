@@ -270,6 +270,7 @@ public class ShoppingManager implements Shopping {
             e.printStackTrace();
         }
     }
+    // Method to generate random data for electronics
 
     // Implementation of the AppendableObjectOutputStream class
 
